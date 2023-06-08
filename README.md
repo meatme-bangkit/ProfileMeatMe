@@ -11,16 +11,12 @@ This application can help people to detect whether the meat they buy is fresh or
 This is our repository for Product-Based Capstone Project and Our Team consist of 6 people 
 
 ## Team Member 
-|           Name           |   
-| -------------------------| 
-| Nida Zakia Aldina        |
-| Annisa Refalinanda Putri |
-| -------------------------|
-| Muhammad Rizky Yanuri    |
-| -------------------------
-| Surya Pratama Januarvi   |
-| -------------------------
-|  Herdo Dimas Pratirto    |
-| -------------------------
-| Bintang Muhammad Madani  |
+|           Name           |   Bangkit ID   |     Learning Path    |
+| -------------------------| -------------- | ---------------------
+| Nida Zakia Aldina        |   M304DSY0040  |  Machine Learning    |
+| Annisa Refalinanda Putri |   M304DSY1320  |  Machine Learning    |
+| Muhammad Rizky Yanuri    |   C242DSX0733  |  Cloud Computing     |
+| Surya Pratama Januarvi   |   C044DKX4790  |  Cloud Computing     |
+|  Herdo Dimas Pratirto    |   A018DKX4460  |  Mobile Development  |
+| Bintang Muhammad Madani  |   A131DSX1064  |  Mobile Development  |
 
