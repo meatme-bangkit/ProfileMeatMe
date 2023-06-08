@@ -10,3 +10,19 @@ This application can help people to detect whether the meat they buy is fresh or
 ## Hello Everyone, Welcome to MeatMe :cut_of_meat:
 This is our repository for Product-Based Capstone Project and Our Team consist of 6 people 
 
+## Team Member 
+|           Name           |   
+| -------------------------| 
+| Nida Zakia Aldina        |
+| -------------------------
+| Annisa Refalinanda Putri |
+| -------------------------
+| Muhammad Rizky Yanuri    |
+| -------------------------
+| Surya Pratama Januarvi   |
+| -------------------------
+|  Herdo Dimas Pratirto    |
+| -------------------------
+| Bintang Muhammad Madani  |
+| -------------------------
+
