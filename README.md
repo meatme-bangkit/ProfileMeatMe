@@ -14,9 +14,8 @@ This is our repository for Product-Based Capstone Project and Our Team consist o
 |           Name           |   
 | -------------------------| 
 | Nida Zakia Aldina        |
-| -------------------------
 | Annisa Refalinanda Putri |
-| -------------------------
+| -------------------------|
 | Muhammad Rizky Yanuri    |
 | -------------------------
 | Surya Pratama Januarvi   |
@@ -24,5 +23,4 @@ This is our repository for Product-Based Capstone Project and Our Team consist o
 |  Herdo Dimas Pratirto    |
 | -------------------------
 | Bintang Muhammad Madani  |
-| -------------------------
 
